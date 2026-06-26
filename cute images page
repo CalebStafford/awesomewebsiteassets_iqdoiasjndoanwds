@@ -1,0 +1,19 @@
+<!-- 
+
+please no steal my website :C
+
+-->
+
+
+<!DOCTYPE HTML>
+
+<title>Cute Images!</title>
+<html>
+<body>
+<h1>Cute Images!</h1>
+  <a href="https://www.google.com" class="my-button">go back to main page</a> <!-- button that sends you to a different link! -->
+
+  <img src="https://raw.githubusercontent.com/CalebStafford/wholesomewebsiteassets_iqdoiasjndoanwds/refs/heads/main/puppy%20in%20grass.avif" width="100" height="100" alt="Example Image">
+
+</body>
+</html>
